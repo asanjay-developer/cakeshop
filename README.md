@@ -1,4 +1,3 @@
-# Cakeshop_Ladingpage
 # 🎂 CakeShop Website
 
 A modern and responsive **Cake Shop Website** built using HTML, CSS, and JavaScript.
@@ -77,7 +76,7 @@ This project is created for:
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/cakeshop.git
+git clone https://github.com/asanjay-developer/cakeshop.git
 ```
 
 2. Open the project folder
