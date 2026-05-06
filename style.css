@@ -128,3 +128,16 @@ button:hover {
 }
 
 /* div animation end */
+
+/* mobile respos  */
+
+@media screen and (max-width:1000px) {
+  div{
+     width: 90%;
+     margin-left: 5%;
+  }
+
+  button{
+    width: 50%;
+  }
+}
